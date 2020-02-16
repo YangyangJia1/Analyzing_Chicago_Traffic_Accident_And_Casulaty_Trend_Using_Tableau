@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Every year, thousands of accidents occur due to a multitude of contributing factors. I explored the crash data which is provided for public use on https://data.cityofchicago.org. I aim to find out if there were any underlying trends and relations that could explain the number of accidents occurring. This dataset contains information about people, vehicles and each traffic crash on city streets within the city of Chicago that involved in a crash and if any injuries were sustained from 2015 to 2018.
+Every year, thousands of accidents occur due to a multitude of contributing factors. I explored the crash data which is provided for public use on <a href="https://data.cityofchicago.org">City of Chicago</a>. I aim to find out if there were any underlying trends and relations that could explain the number of accidents occurring. This dataset contains information about people, vehicles and each traffic crash on city streets within the city of Chicago that involved in a crash and if any injuries were sustained from 2015 to 2018.
 
 ## Features
 This project folder contains:
