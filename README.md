@@ -16,6 +16,6 @@ Every year, thousands of accidents occur due to a multitude of contributing fact
 
 ## Features
 This project folder contains:
-* [Tableau Visualization](https://us-west-2b.online.tableau.com/#/site/yangyangjia/workbooks/179736?:origin=card_share_link)
+* [Tableau Visualization](https://us-west-2b.online.tableau.com/#/site/yangyangjia/projects/73440)
 * [Paper](https://github.com/YangyangJia1/traffic_data_analysis/tree/master/files/paper%20)
 * [Dataset](*)
